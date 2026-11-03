@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
+<h3>AIM: To implement and analyze matrix summation using CUDA with 2D grids and 2D blocks for both FLOAT and INTEGER data types, and compare the execution time of CPU and GPU computations to evaluate GPU performance.</h3>
 <h3>NAME : DHAYALAPRABU.S</h3>
 <h3>REGISTER NO : 212224230065</h3>
 <h3>EX. NO 2</h3>
